@@ -1,5 +1,6 @@
 # SoftwareConstructionHW1
 Git:
+
 –	Start a Git repository (Github is free.)
 –	Working with two other people in class, run the following experiments
 –	Create two text files and save them to the host repository.
