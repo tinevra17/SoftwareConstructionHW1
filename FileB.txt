@@ -1,0 +1,4 @@
+Simple version control systems have existed in
+one form or another for many years. The primary job of any version control
+system is to track the change deltas that are created when source files are
+changed from one version to the next. (Version Control is Not Configuration Management - William C. Brown)
